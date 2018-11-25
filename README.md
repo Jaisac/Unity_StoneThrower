@@ -15,8 +15,12 @@ After 60 seconds, the results of the match will be displayed in a different pane
 
 Some improvements for the game are still left like:
 
--Adaptation for mobile devices (graphical performance improvement, multithouch methods)-
+-Adaptation for mobile devices (graphical performance improvement, multithouch methods).
+
 -Increasing of performance for the explosion objects.
+
 -Fix some lightning effects during the stone thrower stage.
+
 -Adding more customizable options for the settings menu. 
+
 -Perhaps adding more features on difficulty to add more challenge.
