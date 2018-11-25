@@ -1,6 +1,7 @@
 # Unity_StoneThrower
 Project about a stone thrower game for PC 
 
+Images and executable of the game (with all dependencies) are free for download. (It only has support for Windows 7 and above). Recommended resolution is 1028x768.
 
 The game has 3 levels of difficulty: easy, moderate and hard. Easy is settled as default value.
 
