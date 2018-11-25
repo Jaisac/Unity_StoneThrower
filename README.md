@@ -19,3 +19,4 @@ Some improvements for the game are still left like:
 -Increasing of performance for the explosion objects.
 -Fix some lightning effects during the stone thrower stage.
 -Adding more customizable options for the settings menu. 
+-Perhaps adding more features on difficulty to add more challenge.
